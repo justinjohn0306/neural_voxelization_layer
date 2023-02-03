@@ -4,7 +4,7 @@ This layer is seperated from [PaMIR](https://github.com/ZhengZerong/PaMIR), and 
 
 ## installation
 ```bash
-pip install git+https://github.com/YuliangXiu/neural_voxelization_layer.git
+pip install git+https://github.com/justinjohn0306/neural_voxelization_layer.git
 ```
 
 ## citation
